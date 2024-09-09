@@ -3,5 +3,5 @@
 #
 
 <h3 align="center">
-<a href="https://modrinth.com/modpack/iatj">Modrinth</a> - <a href="https://iatj-modpack.github.io/">Website</a> - <a href="https://iatj-modpack.github.io/changelog">Changelog</a>
+<a href="https://iatj-modpack.github.io/">Website</a> - <a href="https://modrinth.com/modpack/iatj">Modrinth</a> - <a href="https://iatj-modpack.github.io/changelog">Changelog</a>
 </h3>
